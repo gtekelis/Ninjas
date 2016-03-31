@@ -1,0 +1,5 @@
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csprojResolveAssemblyReference.cache

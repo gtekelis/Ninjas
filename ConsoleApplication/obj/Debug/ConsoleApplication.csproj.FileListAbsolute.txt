@@ -1,0 +1,14 @@
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.Classes.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.Classes.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\NinjaDomain.DataModel.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

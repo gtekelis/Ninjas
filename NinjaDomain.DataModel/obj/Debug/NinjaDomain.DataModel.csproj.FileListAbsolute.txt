@@ -1,0 +1,14 @@
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
