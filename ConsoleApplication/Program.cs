@@ -22,7 +22,8 @@ namespace ConsoleApplication
             //QueryAndUpdateNinja();
             //RetrieveDataWithFind();
             //RetrieveDataWithStoredProc();
-            InstertRelatedData_1();
+            //InstertRelatedData_1();
+            RetrieveRelatedData_1();
 
         }
 
@@ -167,6 +168,21 @@ namespace ConsoleApplication
                 ninja.EquipmentOwned.Add(spunk);
                 context.SaveChanges();
 
+            }
+        }
+
+        private static void RetrieveRelatedData_1()
+        {
+            using (var context = new NinjaContext())
+            {
+                context.Database.Log = Console.WriteLine;
+
+                var ninja = context.Ninjas                           
+                    .FirstOrDefault(n => n.Name.StartsWith("George"));
+
+                Console.WriteLine(ninja.Name);
+
+                //Console.WriteLine(ninja.EquipmentOwned.Count());
             }
         }
     }
