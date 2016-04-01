@@ -11,4 +11,4 @@ C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDom
 C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
 C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
 C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
-C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\_WORKS\george\_dev\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Interface.resources

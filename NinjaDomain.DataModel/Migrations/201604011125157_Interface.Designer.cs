@@ -7,13 +7,13 @@ namespace NinjaDomain.DataModel.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class AddBirthdayToNinja : IMigrationMetadata
+    public sealed partial class Interface : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(AddBirthdayToNinja));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Interface));
         
         string IMigrationMetadata.Id
         {
-            get { return "201603311145061_AddBirthdayToNinja"; }
+            get { return "201604011125157_Interface"; }
         }
         
         string IMigrationMetadata.Source
