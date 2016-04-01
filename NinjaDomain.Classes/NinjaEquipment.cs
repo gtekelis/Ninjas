@@ -24,7 +24,7 @@ namespace NinjaDomain.Classes
             set
             {
                 throw new NotImplementedException();
-            }
+            }   
         }
         public DateTime DateCreated
         {
