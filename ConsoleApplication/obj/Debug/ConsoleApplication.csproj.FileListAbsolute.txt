@@ -12,3 +12,5 @@ C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\EntityFrame
 C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\_WORKS\george\_dev\Ninja.Module2Demo\ConsoleApplication\bin\Debug\Newtonsoft.Json.xml

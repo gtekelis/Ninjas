@@ -6,7 +6,7 @@ using NinjaDomain.Classes.Interfaces;
 
 namespace NinjaDomain.Classes
 {
-    public class Ninja : IModificationHistory
+    public class Ninja
     {
         public Ninja()
         {
@@ -20,42 +20,6 @@ namespace NinjaDomain.Classes
         public int ClanId { get; set; }
         public List<NinjaEquipment> EquipmentOwned { get; set; }
         public System.DateTime DateOfBirth { get; set; }
-
-        public DateTime DateModified
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-
-            set
-            {
-                throw new NotImplementedException();
-            }
-        }
-        public DateTime DateCreated
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-
-            set
-            {
-                throw new NotImplementedException();
-            }
-        }
-        public bool IsDirty
-        {
-            get
-            {
-                throw new NotImplementedException();
-            }
-
-            set
-            {
-                throw new NotImplementedException();
-            }
-        }
+       
     }
 }

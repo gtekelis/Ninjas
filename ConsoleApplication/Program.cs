@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using NinjaDomain.Classes;
 using NinjaDomain.DataModel;
 using System.Data.Entity;
+using Newtonsoft.Json;
 
 namespace ConsoleApplication
 {
@@ -22,8 +23,8 @@ namespace ConsoleApplication
             //QueryAndUpdateNinja();
             //RetrieveDataWithFind();
             //RetrieveDataWithStoredProc();
-            //InstertRelatedData_1();
-            RetrieveRelatedData_1();
+            InstertRelatedData_1();
+            //RetrieveRelatedData_1();
 
         }
 
@@ -166,6 +167,13 @@ namespace ConsoleApplication
                 context.Ninjas.Add(ninja);
                 ninja.EquipmentOwned.Add(muscles);
                 ninja.EquipmentOwned.Add(spunk);
+
+                var json = JsonConvert.SerializeObject(ninja);
+
+                var deserializedNinja = JsonConvert.DeserializeObject<Ninja>(json);
+
+                var name = deserializedNinja.Name;
+
                 context.SaveChanges();
 
             }
@@ -180,7 +188,9 @@ namespace ConsoleApplication
                 var ninja = context.Ninjas                           
                     .FirstOrDefault(n => n.Name.StartsWith("George"));
 
-                Console.WriteLine(ninja.Name);
+                var json = JsonConvert.SerializeObject(ninja);
+
+                Console.WriteLine(json);
 
                 //Console.WriteLine(ninja.EquipmentOwned.Count());
             }
